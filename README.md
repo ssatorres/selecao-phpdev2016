@@ -8,6 +8,7 @@ A aplicação **SimplesVet Lite** está evoluindo e precisa de 3 novas funcional
 2.  Para que seja mais fácil identificar os animais, os clientes estão pedindo que seja colocada uma `foto` para o animal. Pensando em  adaptar a todos os dispositivos, a imagem de ter no máximo `200x200px` e deve ser quadrada.
 3. Por último, os animais precisam ser vacinados!! Crie um lugar onde seja possível aplicar uma vacina para o animal (já tem tabela! Veja na sessão [*estrutura de dados*](#estrutura)).
 
+
 ![missaoimpossivel4.gif](img/missaoimpossivel4.gif)
 
 ##Go further! 
@@ -19,7 +20,7 @@ Se quiser ir além e mostrar que *Tom Cruise* é peixe pequeno, aqui vão alguma
 
 Fique livre para propor/implementar outras novidades bacanas. Seja de funcionalidade ou estrutura de código.
 
-![missaoimpossivel4.gif](img/missaoimpossivel4.gif)
+![missaoimpossivel5.gif](img/missaoimpossivel5.gif)
 
 ##Como entregar
 
@@ -30,12 +31,15 @@ Fique livre para propor/implementar outras novidades bacanas. Seja de funcionali
 
 Ta afim de se destacar? Crie uma conta na [AWS (é free por 1 ano)](https://aws.amazon.com/pt/free/) e crie toda infra pra aplicação lá... Para que possamos validar, nos passe um usuário que possa visualizar essa infra. 
 
-![missaoimpossivel5.gif](img/missaoimpossivel5.gif)
+
+![missaoimpossivel1.gif](img/missaoimpossivel1.gif)
 
 
 ----
 ### <a name="estrutura"></a>Estrutura de dados
 Para acelerar e te dar uma idéia do padrão que usamos, já entregamos uma estrutura básica de banco com tabelas, views e procedures:
+
+
 ![schema.png](db/schema.png)
 
 ### Estrutura da Aplicação
@@ -50,4 +54,6 @@ Para interface do exemplo, foi usado o template [Metronic](http://keenthemes.com
 ---
 
 Essa mensagem se autodestruirá em 5, 4, 3, 2, 1....
+
+
 ![missaoimpossivel2.gif](img/missaoimpossivel2.gif)
