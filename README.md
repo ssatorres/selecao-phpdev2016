@@ -12,11 +12,10 @@ A aplicação **SimplesVet Lite** está evoluindo e precisa de 3 novas funcional
 ![missaoimpossivel4.gif](img/missaoimpossivel4.gif)
 
 ##Go further! 
-Se quiser ir além e mostrar que *Tom Cruise* é peixe pequeno, aqui vão algumas coisas divertidas:
+Se quiser ir **além** e mostrar que *Tom Cruise* é licuri, aqui vão algumas coisas divertidas como plus:
  
 1. No upload da imagem do animal, coloque um recurso que permita o usuário gerar um `thumb` com crop e dimensões `50x50px`. 
-2. Como usamos `AWS` e um ambiente escalável, as imagens não ficam no servidor de aplicação, então as imagens dos animais devem ir para um bucket no `AWS S3`.
-3. A aplicação e a API estão sem controle de acesso... o.O
+2. A aplicação e a API estão sem controle de acesso... o.O
 
 Fique livre para propor/implementar outras novidades bacanas. Seja de funcionalidade ou estrutura de código.
 
@@ -30,6 +29,7 @@ Fique livre para propor/implementar outras novidades bacanas. Seja de funcionali
 ##Hard mode on!
 
 Ta afim de se destacar? Crie uma conta na [AWS (é free por 1 ano)](https://aws.amazon.com/pt/free/) e crie toda infra pra aplicação lá... Para que possamos validar, nos passe um usuário que possa visualizar essa infra. 
+O ideal é que as imagens não fiquem no servidor de aplicação, então as imagens dos animais devem ir para um `bucket` no `AWS S3`.
 
 
 ![missaoimpossivel1.gif](img/missaoimpossivel1.gif)
